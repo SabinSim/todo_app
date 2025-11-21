@@ -1,5 +1,5 @@
-streamlit==1.51.0
-pandas==2.3.3
-plotly==6.5.0
+streamlit
+pandas
+plotly
 streamlit-calendar==1.4.0
 
