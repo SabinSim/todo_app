@@ -205,6 +205,8 @@ Later removed to keep the app focused and lightweight.
 ├── calendar_options.py       # FullCalendar settings + custom CSS
 ├── todo.db                   # SQLite database
 ├── requirements.txt
+├── .streamlit/               # Light Mode using Streamlit's theme settings.
+│   └── config.toml
 └── README.md
 ```
 
