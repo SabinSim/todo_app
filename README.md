@@ -1,6 +1,10 @@
 
 # 📘 Sabin’s To-Do & Schedule Manager
 
+🔗 Live Demo
+
+👉 https://sabin-todo.streamlit.app
+
 *A calendar-centric task management application built with Streamlit.*
 
 ---
